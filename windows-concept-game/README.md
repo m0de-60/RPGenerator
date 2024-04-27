@@ -1,4 +1,4 @@
-<img src="https://mode-60.github.io/web/rpgenerator-concept-logo.png">
+<img src="https://m0de-60.github.io/web/rpgenerator-old-logo.png">
 
 # Concept RPG Game for Windows <b>(Discontinued Archive)</b>
 
