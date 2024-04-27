@@ -1,4 +1,4 @@
-<img src="https://mode-60.github.io/web/rpgenerator-lg-green.png">
+<img src="https://m0de-60.github.io/web/rpgenerator-lg-green.png">
 
 <h2>Multiplayer Online Role Playing Game (MORPG)</h2>
 
