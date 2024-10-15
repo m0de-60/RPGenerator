@@ -1,4 +1,4 @@
-<img src="https://m0de-60.github.io/web/rpg-fall-2024-poster.png">
+<img src="https://raw.githubusercontent.com/m0de-60/RPGenerator/refs/heads/main/rpg-fall-2024-poster.png">
 
 <a href="https://github.com/m0de-60/rpgenerator/tree/main/game-bot">RPGenerator (Online Game Hub Bot) - Python (In Development)</a>
 
